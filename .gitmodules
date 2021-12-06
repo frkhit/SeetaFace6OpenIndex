@@ -48,7 +48,7 @@
 	branch = master
 [submodule "TenniS"]
 	path = TenniS
-	url = https://github.com/TenniS-Open/TenniS.git
+	url = git@github.com:TenniS-Open/TenniS.git
 	branch = master
 [submodule "SeetaAuthorize"]
 	path = SeetaAuthorize
