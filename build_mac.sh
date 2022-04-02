@@ -1,5 +1,6 @@
 #/bin/env bash
 
+echo "make install" >> SeetaMaskDetector/craft/build.linux.x64.sh
 
 cd OpenRoleZoo/craft/ && bash build.linux.x64.sh && cd ../.. && \
 cd SeetaAuthorize/craft/ && bash build.linux.x64.sh && cd ../.. && \
